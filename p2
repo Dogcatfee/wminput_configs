@@ -1,0 +1,14 @@
+#buttons
+
+Wiimote.A		  = BTN_LEFT
+Wiimote.B		  = BTN_RIGHT
+Wiimote.Up		= KEY_H
+Wiimote.Down	= KEY_K
+Wiimote.Left	= KEY_J
+Wiimote.Right	= KEY_U
+Wiimote.Minus	= KEY_BACK
+Wiimote.Plus	= KEY_FORWARD
+Wiimote.Home	= KEY_ESC
+Wiimote.1		  = KEY_O
+Wiimote.2		  = KEY_L
+
